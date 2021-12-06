@@ -11,12 +11,18 @@ namespace T3D
 		virtual ~Clock(void);
 		void setMaterials(Material*);
 		void setTransparencyEffect(Material* m);
+		Transform* getMinuteHand();
 	private:
 		GameObject* base;
-		GameObject* glass;
-		float size = 10;
+		GameObject* shell;
+		GameObject* face;
+		GameObject* face_center;
+		GameObject* minute_center;
+		GameObject* minuteHand;
+		GameObject* hourHand;
+		float size ;
 
-		Mesh* createGlass();
+		Mesh* createShell();
 		Material* transparencyEffectMaterial;
 
 	};

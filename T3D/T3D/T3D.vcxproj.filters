@@ -264,6 +264,9 @@
     <ClCompile Include="Glass.cpp">
       <Filter>Source Files\Exam</Filter>
     </ClCompile>
+    <ClCompile Include="ClockAnimation.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Mesh.h">
@@ -465,6 +468,9 @@
       <Filter>Header Files\Exam</Filter>
     </ClInclude>
     <ClInclude Include="ClockBase.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="ClockAnimation.h">
       <Filter>Header Files\Exam</Filter>
     </ClInclude>
   </ItemGroup>

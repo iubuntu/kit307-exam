@@ -26,7 +26,7 @@
 #include "ParticleGravity.h"
 #include "LookAtBehaviour.h"
 #include "Cube.h"
-#include "ExamAnimation.h"
+#include "ClockAnimation.h"
 #include "DrawTask.h"
 namespace T3D {
 
@@ -153,7 +153,7 @@ namespace T3D {
 			[x] Compound objects
 			[x] Textured objects
 			[ ] Shaders
-			[ ] Transparency effects
+			[x] Transparency effects
 			[x] Keyframe and other animation techniques
 			[x] Other 3D techniques
 			*/
@@ -212,6 +212,9 @@ namespace T3D {
 			anim->play();
 
 			// and	 other animation techniques
+			ClockAnimation* animTask = new ClockAnimation(this);
+			animTask->obj = clock->getMinuteHand();
+			addTask(animTask);
 
 			// Other 3D techniques
 			addTask(new ExamSound(this));
