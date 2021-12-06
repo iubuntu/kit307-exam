@@ -21,6 +21,7 @@ namespace T3D
 		face_center->setMaterial(m);
 		minuteHand->setMaterial(m);
 		hourHand->setMaterial(m);
+		decoration->setMaterial(m);
 
 		shell->setMaterial(transparencyEffectMaterial);
 
@@ -41,6 +42,7 @@ namespace T3D
 		minute_center = new GameObject(app);
 		minuteHand = new GameObject(app);
 		hourHand = new GameObject(app);
+		decoration = new GameObject(app);
 		
 		base->setMesh(
 			new ClockBase(size, bezel_width, screen_depression)
@@ -109,6 +111,56 @@ namespace T3D
 		shell->getTransform()->setParent(getTransform());
 		shell->getTransform()->name = "shell";
 
+
+
+		SweepPath path;
+		float r = sqrt(2 * size * size) + 1;
+
+		// Make a profile
+		std::vector<Vector3> points;
+		points.push_back(Vector3(0, 3, 0));
+		points.push_back(Vector3(1, 2.5, 0));
+		points.push_back(Vector3(1, 2, 0));
+		points.push_back(Vector3(0.5, 2, 0));
+		points.push_back(Vector3(0.5, 1.5, 0));
+		points.push_back(Vector3(2, 1, 0));
+		points.push_back(Vector3(2, 0, 0));
+		points.push_back(Vector3(0, 0, 0));
+
+
+		Transform t1, t2, t3, t4;
+		float angle = 90 * Math::DEG2RAD;
+		t1.setLocalPosition(Vector3(r * cosf(angle), 0, r * std::sinf(angle)));
+		t1.setLocalRotation(Quaternion(Vector3(0, -angle, 0)));
+
+		angle = 2* 90 * Math::DEG2RAD;
+		t2.setLocalPosition(Vector3(r* cosf(angle), 0, r* std::sinf(angle)));
+		t2.setLocalRotation(Quaternion(Vector3(0, -angle, 0)));
+
+		angle = 3 * 90 * Math::DEG2RAD;
+
+		t3.setLocalPosition(Vector3(r* cosf(angle), 0, r* std::sinf(angle)));
+		t3.setLocalRotation(Quaternion(Vector3(0, -angle, 0)));
+
+		angle = 4 * 90 * Math::DEG2RAD;
+		t4.setLocalPosition(Vector3(r* cosf(angle), 0, r* std::sinf(angle)));
+		t4.setLocalRotation(Quaternion(Vector3(0, -angle, 0)));
+
+		path.addTransform(t1);
+		path.addTransform(t2);
+		path.addTransform(t3);
+		path.addTransform(t4);
+
+
+
+		decoration->setMesh(new Sweep(points, path, true));
+		decoration->getTransform()->setParent(base->getTransform());
+		decoration->getTransform()->setLocalRotation(
+			Vector3(0,45*Math::DEG2RAD,0)
+		);
+		decoration->getTransform()->setLocalPosition(
+			Vector3(0, -size, 0)
+		);
 	}
 
 	void Clock::setFace(Material* m) {

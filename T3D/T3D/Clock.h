@@ -21,6 +21,7 @@ namespace T3D
 		GameObject* minute_center;
 		GameObject* minuteHand;
 		GameObject* hourHand;
+		GameObject* decoration;
 		float size ;
 
 		Mesh* createShell();
