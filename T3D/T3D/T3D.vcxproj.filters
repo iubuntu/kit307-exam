@@ -255,6 +255,15 @@
     <ClCompile Include="Tablet.cpp">
       <Filter>Source Files\Exam</Filter>
     </ClCompile>
+    <ClCompile Include="TCube.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="ClockBase.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="Glass.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Mesh.h">
@@ -447,6 +456,15 @@
       <Filter>Header Files\Component\Mesh</Filter>
     </ClInclude>
     <ClInclude Include="Tablet.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="TCube.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="Glass.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="ClockBase.h">
       <Filter>Header Files\Exam</Filter>
     </ClInclude>
   </ItemGroup>

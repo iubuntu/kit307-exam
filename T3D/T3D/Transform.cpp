@@ -59,7 +59,7 @@ namespace T3D
 		//
 		// A solution to this without a large refactoring of the component system would be to use std::shared_ptr or handles.
 		for (uint32_t child = 0; child < children.size(); child++) {
-			if (children[child]) delete children[child];
+			//if (children[child]) delete children[child];
 		}
 
 		if (parent) {

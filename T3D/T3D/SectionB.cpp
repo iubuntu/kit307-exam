@@ -18,24 +18,20 @@
 
 //#include "AnimationTest.h"
 //#include "LookAtBehaviour.h"
-
+#include "Clock.h"
 #include "ExamSound.h"
 #include "Terrain.h"
 #include "Billboard.h"
 #include "ParticleEmitter.h"
 #include "ParticleGravity.h"
 #include "LookAtBehaviour.h"
-#include "Clock.h"
-
-
-#include "Tablet.h"
+#include "Cube.h"
 #include "ExamAnimation.h"
 #include "DrawTask.h"
 namespace T3D {
 
 	SectionB::SectionB(void)
 	{
-		QuaternionNumber = 0;
 		drawTask = nullptr;
 		drawArea = new Texture(1024, 640, false);
 		drawArea->clear(Colour(255, 255, 255, 255));
@@ -44,26 +40,6 @@ namespace T3D {
 
 	SectionB::~SectionB(void)
 	{
-	}
-
-
-	Quaternion SectionB::GetShoulderQuaternion() {
-		Quaternion q;
-		if (QuaternionNumber % 2 == 0) {
-			q = Quaternion(Vector3(0, 0, 0));
-		}
-		else {
-			if (QuaternionNumber % 4 == 1) {
-				q = Quaternion(Vector3(0, 270 * Math::DEG2RAD, 0));
-			}
-			else {
-				q = Quaternion(Vector3(0, -270 * Math::DEG2RAD, 0));
-			}
-
-		}
-		QuaternionNumber++;
-		return q;
-
 	}
 
 
@@ -85,6 +61,7 @@ namespace T3D {
 		light->setDiffuse(1, 1, 1);
 		light->setSpecular(1, 1, 1);
 		lightObj->setLight(light);
+		lightObj->getTransform()->name = "light";
 		//lightObj->getTransform()->setLocalRotation(Vector3(-45 * Math::DEG2RAD, 70 * Math::DEG2RAD, 0));
 		lightObj->getTransform()->setParent(root);
 
@@ -138,6 +115,7 @@ namespace T3D {
 		//camObj->getTransform()->setLocalRotation(Quaternion(Vector3(0, 180 * Math::DEG2RAD, 0)));
 
 		camObj->setCamera(renderer->camera);
+		camObj->getTransform()->name = "camobj";
 		camObj->getTransform()->setParent(root);
 
 
@@ -167,29 +145,73 @@ namespace T3D {
 		billboard->getTransform()->name = "Billboard";
 
 
-		{ // 3d clock
+		{ // 3d moon and cow
 
-
+			/*
+			[x] Sweeps
+			[x] Custom meshes
+			[x] Compound objects
+			[x] Textured objects
+			[ ] Shaders
+			[ ] Transparency effects
+			[x] Keyframe and other animation techniques
+			[x] Other 3D techniques
+			*/
 
 			Material* grey = renderer->createMaterial(Renderer::PR_OPAQUE);
 			grey->setDiffuse(0.8, 0.8, 0.9, 1);
 
-			GameObject* clock = new GameObject(this);
-			clock->setMesh(new Clock(
-				10,
-				1,
-				0.5
-			
-			));
-			clock->setMaterial(grey);
+			Material* transparencyMaterial = renderer->createMaterial(Renderer::PR_OPAQUE);
+			transparencyMaterial->setDiffuse(0.8, 0.8, 0.9, 1);
 
+			// 
+
+			GLShader* transparencyShader = new GLShader("Resources/transparencyVector.shader", "Resources/transparencyFrag.shader");
+			transparencyShader->compileShader();
+			transparencyMaterial->setShader(transparencyShader);
+
+
+			// clock
+
+			// sweeps 			==> Cow.cpp
+			// Custom meshes	==> Head.cpp
+			// Compound objects ==> Cow.cpp
+			Clock* clock = new Clock(this);
+			clock->getTransform()->setLocalPosition(Vector3(-10, 0, 0));
 			clock->getTransform()->setParent(root);
-			clock->getTransform()->setLocalPosition(Vector3(0, 0, 0));
-
-
 			clock->getTransform()->name = "clock";
-			clock->getTransform()->setLocalRotation(Vector3(180 * Math::DEG2RAD, 0,0));
 
+			clock->setTransparencyEffect(transparencyMaterial);
+			clock->setMaterials(grey);
+
+			Animation* anim = new Animation(15.0);
+			clock->addComponent(anim);
+
+
+
+
+			//Add a cube to act as a source for particle system
+
+
+			// A simple fireworks fountain using the particle system
+			ParticleEmitter* particleSys = new ParticleEmitter(10.0f, 1.0f, 20.0f, 2.0f, 3.0f, 3.0f);
+			clock->addComponent(particleSys);			// make cube source of particles
+
+
+
+			// Keyframe and	 other animation techniques
+			anim->addKey("clock", 0, Quaternion(Vector3(0, 0, 0)), Vector3(-20, 0, 0));
+			anim->addKey("clock", 3, Quaternion(Vector3(0, 0, 0)), Vector3(-16, 5, 0));
+			anim->addKey("clock", 6, Quaternion(Vector3(0, 0, 0)), Vector3(-12, 10, 0));
+			anim->addKey("clock", 9, Quaternion(Vector3(0, 0, 0)), Vector3(12, 10, 0));
+			anim->addKey("clock", 12, Quaternion(Vector3(0, 0, 0)), Vector3(16, 5, 0));
+			anim->addKey("clock", 15, Quaternion(Vector3(0, 0, 0)), Vector3(20, 0, 0));
+
+
+			anim->loop(false);
+			anim->play();
+
+			// and	 other animation techniques
 
 			// Other 3D techniques
 			addTask(new ExamSound(this));
