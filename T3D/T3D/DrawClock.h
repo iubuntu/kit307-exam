@@ -76,7 +76,7 @@ namespace T3D
 		void drawSquare(std::vector<Vector3> points);
 		void drawClockScale(int cx, int cy, int r, Colour c);
 		void drawClockScale(int cx, int cy, int r, Colour c, float width, unsigned char density);
-		float RotateData = 0;
+		float RotateData = 20;
 
 		Vector3 center = Vector3(400, 300, 1);
 		float width = 5;

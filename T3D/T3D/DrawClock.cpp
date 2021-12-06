@@ -40,6 +40,17 @@ namespace T3D
 	/*
 	 * \param
 	 * \note This isn't necessary. It could be inlined into the constructor.
+	 * 
+		- [x] Straight lines
+
+		- [x] Curved lines
+
+		- [x] Filled shapes
+
+		- [x] Translation, scale and rotation transformations
+
+		- [x] Matrix composition
+
 	 */
 	void DrawClock::init() {
 		drawArea->clear(Colour(255, 255, 255, 255));
@@ -51,9 +62,9 @@ namespace T3D
 		clockBackGroundShape.push_back(Vector3(center.x+250, center.y+250 - width, 1));
 		clockBackGroundShape.push_back(Vector3(center.x+250, center.y+250 - width, 1));
 
-
+		// Straight lines
 		drawSquare(clockBackGroundShape);
-
+		// Filled shapes
 		drawFilledCircle(center.x, center.y, 200, Colour(103, 51, 30, 255));
 
 		drawFilledCircle(center.x, center.y, 180, Colour(101, 93, 66, 255));
@@ -113,12 +124,15 @@ namespace T3D
 		RotateData += dt;
 
 		drawFilledCircle(center.x, center.y, 175, Colour(212, 134, 78, 0));
-		drawCircle(center.x, center.y, 170, Colour(200, 53, 20, 0));
+
 		drawClockScale(center.x, center.y,170, Colour(200, 53, 20, 0),10,12);
 		//drawCircle(center.x, center.y, 166, Colour(200, 53, 20, 0));
 		//drawFilledCircle(center.x, center.y, 165, Colour(212, 134, 78, 0));
-
+		
+		// Translation, scale and rotation transformations
+		//  Matrix composition
 		DrawHands();
+		drawFilledCircle(center.x, center.y, 22, Colour(0, 0, 0, 0));
 		drawFilledCircle(center.x, center.y, 20, Colour(200, 53, 20, 0));
 
 		// @BoundsCheck- requires using pushPixel
@@ -348,7 +362,7 @@ namespace T3D
 					points[3 * i + j].y,
 					points[3 * i + (j + 1) % 3].x,
 					points[3 * i + (j + 1) % 3].y,
-					Colour(0, 255, 0, 255)
+					Colour(0, 0, 0, 255)
 				);
 				//printf("from %d to %d\n", 3 * i + j, 3 * i + (j + 1) % 3);
 			}

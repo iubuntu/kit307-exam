@@ -837,3 +837,3489 @@
 [TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
 [WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
 
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
+[TRACING] :: [VIDEO]     :: Reloading texture.... Properties: Mode:    GL_RGBA 
+[WARNING] :: [VIDEO]     :: Camera's near clip plane is 0 or less! Near: -1.0000
+
