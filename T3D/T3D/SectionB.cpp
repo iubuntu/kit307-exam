@@ -173,9 +173,9 @@ namespace T3D {
 
 			// clock
 
-			// sweeps 			==> Cow.cpp
-			// Custom meshes	==> Head.cpp
-			// Compound objects ==> Cow.cpp
+			// sweeps 			==> Clock.cpp
+			// Custom meshes	==> ClockBase.cpp
+			// Compound objects ==> Clock.cpp
 
 			float size = 10;
 			int clockMaxSize = sqrt(size * size * 2)+1;
