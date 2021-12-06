@@ -19,7 +19,10 @@
     <ClCompile Include="Component.cpp" />
     <ClCompile Include="Cube.cpp" />
     <ClCompile Include="DiagMessageTask.cpp" />
+    <ClCompile Include="DrawClock.cpp" />
     <ClCompile Include="DrawTask.cpp" />
+    <ClCompile Include="ExamAnimation.cpp" />
+    <ClCompile Include="ExamSound.cpp" />
     <ClCompile Include="Font.cpp" />
     <ClCompile Include="FontCache.cpp" />
     <ClCompile Include="GameObject.cpp" />
@@ -48,6 +51,8 @@
     <ClCompile Include="Quaternion.cpp" />
     <ClCompile Include="Renderer.cpp" />
     <ClCompile Include="RotateBehaviour.cpp" />
+    <ClCompile Include="SectionA.cpp" />
+    <ClCompile Include="SectionB.cpp" />
     <ClCompile Include="Shader.cpp" />
     <ClCompile Include="ShaderTest.cpp" />
     <ClCompile Include="Sound.cpp" />
@@ -75,7 +80,10 @@
     <ClInclude Include="Component.h" />
     <ClInclude Include="Cube.h" />
     <ClInclude Include="DiagMessageTask.h" />
+    <ClInclude Include="DrawClock.h" />
     <ClInclude Include="DrawTask.h" />
+    <ClInclude Include="ExamAnimation.h" />
+    <ClInclude Include="ExamSound.h" />
     <ClInclude Include="Font.h" />
     <ClInclude Include="FontCache.h" />
     <ClInclude Include="GameObject.h" />
@@ -104,6 +112,8 @@
     <ClInclude Include="Renderer.h" />
     <ClInclude Include="RotateBehaviour.h" />
     <ClInclude Include="DefaultDebugOptions.h" />
+    <ClInclude Include="SectionA.h" />
+    <ClInclude Include="SectionB.h" />
     <ClInclude Include="Shader.h" />
     <ClInclude Include="ShaderTest.h" />
     <ClInclude Include="Sound.h" />

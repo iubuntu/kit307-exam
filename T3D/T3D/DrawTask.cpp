@@ -87,7 +87,7 @@ namespace T3D
 	 */
 	void DrawTask::update(float dt){
 		drawArea->clear(Colour(255, 255, 255, 255));
-		drawDDALine(100, 1000, 200, 200, Colour(255,0,0,255));
+		drawDDALine(100, 500, 200, 200, Colour(255,0,0,255));
 
 		// @BoundsCheck- requires using pushPixel
 		// Plots pixels made to the drawArea this frame, clearing the pixel queue.

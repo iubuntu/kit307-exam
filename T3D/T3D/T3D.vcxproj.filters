@@ -61,6 +61,12 @@
     <Filter Include="Source Files\Miscellaneous">
       <UniqueIdentifier>{4d94b0f6-3db6-4a1b-8006-c3a30eef95fb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Exam">
+      <UniqueIdentifier>{d218bc07-ea14-4bf9-9809-a4f694f8e442}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Exam">
+      <UniqueIdentifier>{824218c9-652d-42ab-bba1-1bc359ae3ad2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -224,6 +230,21 @@
     </ClCompile>
     <ClCompile Include="Logger.cpp">
       <Filter>Source Files\Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="SectionA.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="SectionB.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="ExamAnimation.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="ExamSound.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawClock.cpp">
+      <Filter>Source Files\Exam</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -394,6 +415,21 @@
     </ClInclude>
     <ClInclude Include="Logger.h">
       <Filter>Header Files\Miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="SectionA.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="SectionB.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="ExamAnimation.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="ExamSound.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawClock.h">
+      <Filter>Header Files\Exam</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
