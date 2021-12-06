@@ -181,14 +181,19 @@ namespace T3D {
 			int clockMaxSize = sqrt(size * size * 2)+1;
 
 			Clock* clock = new Clock(this,size);
-			clock->getTransform()->setLocalPosition(Vector3(0, 0, 0));
+			clock->getTransform()->setLocalPosition(Vector3(0, size, 0));
 			clock->getTransform()->setParent(root);
 			clock->getTransform()->name = "clock";
 
 			clock->setTransparencyEffect(transparencyMaterial);
+
+			// texture obj	1
+			Texture* clockTexture = new Texture("Resources/clockFace.png", true, true);
+			renderer->loadTexture(clockTexture);
+			Material* faceMaterial = renderer->createMaterial(Renderer::PR_OPAQUE);
+			faceMaterial->setTexture(clockTexture);
 			clock->setMaterials(grey);
-
-
+			clock->setFace(faceMaterial);
 
 			// texture obj	2
 			Texture* mouseTexture = new Texture("Resources/mouse.png", true, true);
@@ -222,12 +227,12 @@ namespace T3D {
 
 			// Keyframe and	 other animation techniques
 			
-			anim->addKey("mouse", 0, Quaternion(Vector3(90 * Math::DEG2RAD, 0, 0)), Vector3(-clockMaxSize - mouseSize, 0, 0));
-			anim->addKey("mouse", 3, Quaternion(Vector3(90 * Math::DEG2RAD, 0, 0)), Vector3(-clockMaxSize - mouseSize, size, 0));
-			anim->addKey("mouse", 6, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -45 * Math::DEG2RAD)), Vector3(-0, 2* size, 0));
-			anim->addKey("mouse", 9, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -90 * Math::DEG2RAD)), Vector3(clockMaxSize + mouseSize, size, 0));
-			anim->addKey("mouse", 12, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -180 * Math::DEG2RAD)), Vector3(clockMaxSize + mouseSize, 0, 0));
-			anim->addKey("mouse", 15, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -270 * Math::DEG2RAD)), Vector3(3*clockMaxSize, 0, 0));
+			anim->addKey("mouse", 0, Quaternion(Vector3(90 * Math::DEG2RAD, 0, 0)), Vector3(-clockMaxSize - mouseSize, size, 0));
+			anim->addKey("mouse", 3, Quaternion(Vector3(90 * Math::DEG2RAD, 0, 0)), Vector3(-clockMaxSize - mouseSize, 2*size, 0));
+			anim->addKey("mouse", 6, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -45 * Math::DEG2RAD)), Vector3(-0, 3* size, 0));
+			anim->addKey("mouse", 9, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -90 * Math::DEG2RAD)), Vector3(clockMaxSize + mouseSize, 2*size, 0));
+			anim->addKey("mouse", 12, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -180 * Math::DEG2RAD)), Vector3(clockMaxSize + mouseSize, size, 0));
+			anim->addKey("mouse", 15, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -270 * Math::DEG2RAD)), Vector3(3*clockMaxSize, size, 0));
 
 
 			clock->addComponent(new LookAtBehaviour(camObj->getTransform()));

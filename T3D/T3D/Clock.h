@@ -11,6 +11,7 @@ namespace T3D
 		virtual ~Clock(void);
 		void setMaterials(Material*);
 		void setTransparencyEffect(Material* m);
+		void setFace(Material* m);
 		Transform* getMinuteHand();
 	private:
 		GameObject* base;

@@ -22,7 +22,7 @@ namespace T3D {
 
 		obj->setLocalRotation(
 			Vector3(
-				0, rotationDegree * Math::DEG2RAD, 0
+				0, -rotationDegree * Math::DEG2RAD, 0
 			)
 		);
 

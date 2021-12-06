@@ -6,6 +6,7 @@
 #include "SweepPath.h"
 #include "Sphere.h"
 #include "ClockBase.h"
+#include "Cube.h"
 
 using namespace std;
 
@@ -50,7 +51,8 @@ namespace T3D
 		//base->getTransform()->setLocalRotation(Vector3(0, 180 * Math::DEG2RAD,  0));
 
 		face->setMesh(
-			new Cylinder(size / 2, face_height, 36)
+			//new Cylinder(size / 2, face_height, 36)
+			new Cube(size / 2)
 		);
 
 		face->getTransform()->name = "face";
@@ -60,7 +62,7 @@ namespace T3D
 			0,
 			-(size-screen_depression+ face_height)
 		));
-		face->getTransform()->setLocalRotation(Vector3( 90 * Math::DEG2RAD,0, 0));
+		face->getTransform()->setLocalRotation(Vector3( -180 * Math::DEG2RAD, 90 * Math::DEG2RAD, 0));
 
 		face_center->setMesh(
 			new Cylinder(1, face_height/2, 36)
@@ -68,14 +70,15 @@ namespace T3D
 
 		face_center->getTransform()->name = "face_center";
 		face_center->getTransform()->setParent(face->getTransform());
-		face_center->getTransform()->setLocalPosition(Vector3(0,-face_height,0));
+		//face_center->getTransform()->setLocalPosition(Vector3(0,-face_height,0));
+		face_center->getTransform()->setLocalRotation(Vector3(-90 * Math::DEG2RAD, -90 * Math::DEG2RAD, 0));
 
 		minute_center->setMesh(
 			new Cylinder(1, face_height / 2, 36)
 		);
 
 		minute_center->getTransform()->name = "face_center";
-		minute_center->getTransform()->setParent(face->getTransform());
+		minute_center->getTransform()->setParent(face_center->getTransform());
 		minute_center->getTransform()->setLocalPosition(Vector3(0, -face_height, 0));
 
 		
@@ -96,7 +99,7 @@ namespace T3D
 		hourHand->getTransform()->name = "hourHand";
 		hourHand->getTransform()->setParent(face_center->getTransform());
 		hourHand->getTransform()->setLocalRotation(Vector3(-90 * Math::DEG2RAD, 90 * Math::DEG2RAD, 0));
-		hourHand->getTransform()->setLocalPosition(Vector3(-size / 16 * 3,0,0));
+		hourHand->getTransform()->setLocalPosition(Vector3(size / 16 * 3,0,0));
 
 
 		shell->setMesh(
@@ -106,6 +109,10 @@ namespace T3D
 		shell->getTransform()->setParent(getTransform());
 		shell->getTransform()->name = "shell";
 
+	}
+
+	void Clock::setFace(Material* m) {
+		face->setMaterial(m);
 	}
 
 	Transform* Clock::getMinuteHand() {
