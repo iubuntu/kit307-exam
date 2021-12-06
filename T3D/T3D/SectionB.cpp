@@ -230,6 +230,7 @@ namespace T3D {
 			anim->addKey("mouse", 15, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -270 * Math::DEG2RAD)), Vector3(3*clockMaxSize, 0, 0));
 
 
+			clock->addComponent(new LookAtBehaviour(camObj->getTransform()));
 
 			anim->loop(false);
 			anim->play();

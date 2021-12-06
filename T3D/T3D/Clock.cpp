@@ -47,7 +47,7 @@ namespace T3D
 
 		base->getTransform()->setParent(getTransform());
 		base->getTransform()->name = "base";
-		base->getTransform()->setLocalRotation(Vector3(0, 180 * Math::DEG2RAD,  0));
+		//base->getTransform()->setLocalRotation(Vector3(0, 180 * Math::DEG2RAD,  0));
 
 		face->setMesh(
 			new Cylinder(size / 2, face_height, 36)
