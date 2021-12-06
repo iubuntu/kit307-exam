@@ -161,7 +161,7 @@ namespace T3D {
 			Material* grey = renderer->createMaterial(Renderer::PR_OPAQUE);
 			grey->setDiffuse(0.8, 0.8, 0.9, 1);
 
-			Material* transparencyMaterial = renderer->createMaterial(Renderer::PR_OPAQUE);
+			Material* transparencyMaterial = renderer->createMaterial(Renderer::PR_TRANSPARENT);
 			transparencyMaterial->setDiffuse(0.8, 0.8, 0.9, 1);
 
 			// 
