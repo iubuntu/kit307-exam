@@ -176,18 +176,39 @@ namespace T3D {
 			// sweeps 			==> Cow.cpp
 			// Custom meshes	==> Head.cpp
 			// Compound objects ==> Cow.cpp
-			Clock* clock = new Clock(this);
-			clock->getTransform()->setLocalPosition(Vector3(-10, 0, 0));
+
+			float size = 10;
+			int clockMaxSize = sqrt(size * size * 2)+1;
+
+			Clock* clock = new Clock(this,size);
+			clock->getTransform()->setLocalPosition(Vector3(0, 0, 0));
 			clock->getTransform()->setParent(root);
 			clock->getTransform()->name = "clock";
 
 			clock->setTransparencyEffect(transparencyMaterial);
 			clock->setMaterials(grey);
 
+
+
+			// texture obj	2
+			Texture* mouseTexture = new Texture("Resources/mouse.png", true, true);
+			renderer->loadTexture(mouseTexture);
+			Material* mouseMaterial = renderer->createMaterial(Renderer::PR_OPAQUE);
+			mouseMaterial->setTexture(mouseTexture);
+
+			int mouseSize = 2;
+			GameObject* mouse = new GameObject(this);
+			mouse->setMesh(new Cube(mouseSize));
+
+			mouse->getTransform()->setParent(root);
+			mouse->getTransform()->setLocalPosition(Vector3(0, 0, 0));
+
+
+			mouse->getTransform()->setLocalRotation(Vector3(90 *Math::DEG2RAD,0, 0));
+			mouse->getTransform()->name = "mouse";
+			mouse->setMaterial(mouseMaterial);
 			Animation* anim = new Animation(15.0);
-			clock->addComponent(anim);
-
-
+			mouse->addComponent(anim);
 
 
 			//Add a cube to act as a source for particle system
@@ -195,17 +216,19 @@ namespace T3D {
 
 			// A simple fireworks fountain using the particle system
 			ParticleEmitter* particleSys = new ParticleEmitter(10.0f, 1.0f, 20.0f, 2.0f, 3.0f, 3.0f);
-			clock->addComponent(particleSys);			// make cube source of particles
+			mouse->addComponent(particleSys);			// make cube source of particles
 
 
 
 			// Keyframe and	 other animation techniques
-			anim->addKey("clock", 0, Quaternion(Vector3(0, 0, 0)), Vector3(-20, 0, 0));
-			anim->addKey("clock", 3, Quaternion(Vector3(0, 0, 0)), Vector3(-16, 5, 0));
-			anim->addKey("clock", 6, Quaternion(Vector3(0, 0, 0)), Vector3(-12, 10, 0));
-			anim->addKey("clock", 9, Quaternion(Vector3(0, 0, 0)), Vector3(12, 10, 0));
-			anim->addKey("clock", 12, Quaternion(Vector3(0, 0, 0)), Vector3(16, 5, 0));
-			anim->addKey("clock", 15, Quaternion(Vector3(0, 0, 0)), Vector3(20, 0, 0));
+			
+			anim->addKey("mouse", 0, Quaternion(Vector3(90 * Math::DEG2RAD, 0, 0)), Vector3(-clockMaxSize - mouseSize, 0, 0));
+			anim->addKey("mouse", 3, Quaternion(Vector3(90 * Math::DEG2RAD, 0, 0)), Vector3(-clockMaxSize - mouseSize, size, 0));
+			anim->addKey("mouse", 6, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -45 * Math::DEG2RAD)), Vector3(-0, 2* size, 0));
+			anim->addKey("mouse", 9, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -90 * Math::DEG2RAD)), Vector3(clockMaxSize + mouseSize, size, 0));
+			anim->addKey("mouse", 12, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -180 * Math::DEG2RAD)), Vector3(clockMaxSize + mouseSize, 0, 0));
+			anim->addKey("mouse", 15, Quaternion(Vector3(90 * Math::DEG2RAD, 0, -270 * Math::DEG2RAD)), Vector3(3*clockMaxSize, 0, 0));
+
 
 
 			anim->loop(false);

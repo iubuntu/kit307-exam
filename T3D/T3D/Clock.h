@@ -7,7 +7,7 @@ namespace T3D
 	class Clock : public GameObject
 	{
 	public:
-		Clock(T3DApplication* app);
+		Clock(T3DApplication* app,float size);
 		virtual ~Clock(void);
 		void setMaterials(Material*);
 		void setTransparencyEffect(Material* m);

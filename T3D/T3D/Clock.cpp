@@ -28,8 +28,8 @@ namespace T3D
 
 
 
-	Clock::Clock(T3DApplication* app) : GameObject(app) {
-		size = 10;
+	Clock::Clock(T3DApplication* app,float size) : GameObject(app) {
+		this->size = size;
 		float bezel_width = 1;
 		float screen_depression = 3;
 		float face_height = 1;
@@ -115,7 +115,7 @@ namespace T3D
 	Mesh* Clock::createShell() {
 		std::vector<Vector3> points;
 		SweepPath path = SweepPath();
-		path.makeCirclePath(0, 4);
+		path.makeCirclePath(0, 36);
 
 		float r = sqrt(2 * size*size)+1;
 
