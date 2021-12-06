@@ -164,11 +164,26 @@ namespace T3D {
 			Material* transparencyMaterial = renderer->createMaterial(Renderer::PR_TRANSPARENT);
 			transparencyMaterial->setDiffuse(0.8, 0.8, 0.9, 1);
 
-			// 
+			// Transparency effects
 
 			GLShader* transparencyShader = new GLShader("Resources/transparencyVector.shader", "Resources/transparencyFrag.shader");
 			transparencyShader->compileShader();
 			transparencyMaterial->setShader(transparencyShader);
+
+
+			// Shader
+			/*
+			
+			Material* changeMaterial = renderer->createMaterial(Renderer::PR_TRANSPARENT);
+			changeMaterial->setDiffuse(0.8, 0.8, 0.9, 1);
+
+			GLShader* changeShader = new GLShader("Resources/changeVert.shader", "Resources/changeFrag.shader");
+			changeShader->compileShader();
+			changeMaterial->setShader(changeShader);
+			
+			*/
+
+
 
 
 			// clock
@@ -192,14 +207,14 @@ namespace T3D {
 			renderer->loadTexture(clockTexture);
 			Material* faceMaterial = renderer->createMaterial(Renderer::PR_OPAQUE);
 			faceMaterial->setTexture(clockTexture);
-			clock->setMaterials(grey);
-			clock->setFace(faceMaterial);
 
 			// texture obj	2
 			Texture* mouseTexture = new Texture("Resources/mouse.png", true, true);
 			renderer->loadTexture(mouseTexture);
 			Material* mouseMaterial = renderer->createMaterial(Renderer::PR_OPAQUE);
 			mouseMaterial->setTexture(mouseTexture);
+
+
 
 			int mouseSize = 2;
 			GameObject* mouse = new GameObject(this);
@@ -214,6 +229,11 @@ namespace T3D {
 			mouse->setMaterial(mouseMaterial);
 			Animation* anim = new Animation(15.0);
 			mouse->addComponent(anim);
+
+
+
+			clock->setMaterials(grey);
+			clock->setFace(faceMaterial);
 
 
 			//Add a cube to act as a source for particle system
