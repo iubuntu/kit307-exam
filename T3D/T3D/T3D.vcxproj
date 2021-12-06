@@ -68,9 +68,7 @@
     <ClCompile Include="SweepPath.cpp" />
     <ClCompile Include="T3DApplication.cpp" />
     <ClCompile Include="T3DTest.cpp" />
-    <ClCompile Include="Tablet.cpp" />
     <ClCompile Include="Task.cpp" />
-    <ClCompile Include="TCube.cpp" />
     <ClCompile Include="Terrain.cpp" />
     <ClCompile Include="TerrainFollower.cpp" />
     <ClCompile Include="Texture.cpp" />
@@ -136,9 +134,7 @@
     <ClInclude Include="SweepPath.h" />
     <ClInclude Include="T3DApplication.h" />
     <ClInclude Include="T3DTest.h" />
-    <ClInclude Include="Tablet.h" />
     <ClInclude Include="Task.h" />
-    <ClInclude Include="TCube.h" />
     <ClInclude Include="Terrain.h" />
     <ClInclude Include="TerrainFollower.h" />
     <ClInclude Include="Texture.h" />

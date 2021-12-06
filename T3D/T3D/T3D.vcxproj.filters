@@ -252,12 +252,6 @@
     <ClCompile Include="Cylinder.cpp">
       <Filter>Source Files\Component\Mesh</Filter>
     </ClCompile>
-    <ClCompile Include="Tablet.cpp">
-      <Filter>Source Files\Exam</Filter>
-    </ClCompile>
-    <ClCompile Include="TCube.cpp">
-      <Filter>Source Files\Exam</Filter>
-    </ClCompile>
     <ClCompile Include="ClockBase.cpp">
       <Filter>Source Files\Exam</Filter>
     </ClCompile>
@@ -457,12 +451,6 @@
     </ClInclude>
     <ClInclude Include="Cylinder.h">
       <Filter>Header Files\Component\Mesh</Filter>
-    </ClInclude>
-    <ClInclude Include="Tablet.h">
-      <Filter>Header Files\Exam</Filter>
-    </ClInclude>
-    <ClInclude Include="TCube.h">
-      <Filter>Header Files\Exam</Filter>
     </ClInclude>
     <ClInclude Include="Glass.h">
       <Filter>Header Files\Exam</Filter>
