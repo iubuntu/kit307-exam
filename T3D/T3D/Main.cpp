@@ -8,9 +8,8 @@
 //
 // Main entry point. Creates and runs a T3DApplication
 
-#include "T3DTest.h"
 #include "SectionA.h"
-#include "ShaderTest.h"
+#include "SectionB.h"
 #include "GLTestApplication.h"
 
 #ifdef main
@@ -25,8 +24,8 @@ int main(int argc, char* argv[]) {
 	// !!!!  important 
 
 	// uncomment SectionA and comment SectionB to play SectionA
-	T3DApplication* theApp = new SectionA();
-	//T3DApplication* theApp = new SectionB();
+	//T3DApplication* theApp = new SectionA();
+	T3DApplication* theApp = new SectionB();
 
 
 	theApp->run();
