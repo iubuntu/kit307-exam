@@ -145,15 +145,17 @@ namespace T3D {
 		billboard->getTransform()->name = "Billboard";
 
 
-		{ // 3d moon and cow
+
+
+		{ // 3d clock and mouse
 
 			/*
-			[x] Sweeps
-			[x] Custom meshes
-			[x] Compound objects
-			[x] Textured objects
+			[x] Sweeps			  ==> Clock.cpp
+			[x] Custom meshes	  ==> ClockBase.cpp
+			[x] Compound objects  ==> Clock.cpp
+			[x] Textured objects  ==> simple way.
 			[ ] Shaders
-			[x] Transparency effects
+			[x] Transparency effects  ==> shell in Clock.cpp
 			[x] Keyframe and other animation techniques
 			[x] Other 3D techniques
 			*/
@@ -268,13 +270,40 @@ namespace T3D {
 			// Other 3D techniques
 			addTask(new ExamSound(this));
 
-			//em->getTransform()->setLocalRotation(Vector3(0,0,90 * Math::DEG2RAD));
-			//em->addComponent(new LookAtBehaviour(camObj->getTransform()));
+
+
+			// Create a pool of particles
+			for (int i = 0; i < 100; i++)
+			{
+				GameObject* particle = new GameObject(this);
+				Billboard* bllboard = new Billboard(camObj->getTransform(), true);
+				particle->addComponent(bllboard);
+
+				// start gravity particle with random velocity (mostly upwards)
+				ParticleGravity* behaviour = new ParticleGravity(
+					particleSys,
+					Vector3(
+						Math::randRange(-4, 4),
+						Math::randRange(5, 9),
+						Math::randRange(-4, 4)
+					),
+					-9.8f, 15.0f);
+				behaviour->setAlphaFade(Math::randRange(2, 10), 0.1f);		// fade out particle during lifespan
+				particle->addComponent(behaviour);			// add to particle system
+
+				particle->setMaterial(sparklemat);
+				particle->getTransform()->setLocalScale(Vector3(0.8f, 0.8f, 0.8f));	// make them a bit smaller
+				particle->getTransform()->setParent(root);		// particles movement independent of emitter 
+				particle->getTransform()->name = "particle";
+
+				particleSys->addParticle(behaviour, false);
+			}
+			particleSys->emit(3);						// emit some particles to start
 
 
 		}
 
-
+		
 
 
 		return true;
