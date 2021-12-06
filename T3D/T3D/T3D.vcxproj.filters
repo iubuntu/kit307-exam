@@ -246,6 +246,15 @@
     <ClCompile Include="DrawClock.cpp">
       <Filter>Source Files\Exam</Filter>
     </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="Cylinder.cpp">
+      <Filter>Source Files\Component\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Tablet.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Mesh.h">
@@ -429,6 +438,15 @@
       <Filter>Header Files\Exam</Filter>
     </ClInclude>
     <ClInclude Include="DrawClock.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="Clock.h">
+      <Filter>Header Files\Exam</Filter>
+    </ClInclude>
+    <ClInclude Include="Cylinder.h">
+      <Filter>Header Files\Component\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Tablet.h">
       <Filter>Header Files\Exam</Filter>
     </ClInclude>
   </ItemGroup>
