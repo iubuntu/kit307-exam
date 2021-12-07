@@ -7,6 +7,24 @@ namespace T3D
 	class Clock : public GameObject
 	{
 	public:
+
+
+		/*
+
+		 8 sub-meshes  and 1 joint
+
+		 Clock
+			--> baseJoints
+					--> shell
+					--> base
+						--> decoration
+						--> face
+							--> face_center
+								--> hourHand
+								--> minute_center
+									 --> minuteHand
+
+		*/
 		Clock(T3DApplication* app,float size);
 		virtual ~Clock(void);
 		void setMaterials(Material*);
@@ -22,6 +40,8 @@ namespace T3D
 		GameObject* minuteHand;
 		GameObject* hourHand;
 		GameObject* decoration;
+
+		GameObject* baseJoints;
 		float size ;
 
 		Mesh* createShell();

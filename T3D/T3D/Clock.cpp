@@ -29,12 +29,28 @@ namespace T3D
 
 
 
+	/*
 
+	 8 sub-meshes  and 1 joint
+
+	 Clock
+		--> baseJoints
+				--> shell
+				--> base
+					--> decoration
+					--> face
+						--> face_center
+							--> hourHand
+							--> minute_center
+								 --> minuteHand
+
+	*/
 	Clock::Clock(T3DApplication* app,float size) : GameObject(app) {
 		this->size = size;
 		float bezel_width = 1;
 		float screen_depression = 3;
 		float face_height = 1;
+		baseJoints = new GameObject(app);
 		base = new GameObject(app);
 		shell = new GameObject(app);
 		face = new GameObject(app);
@@ -44,11 +60,13 @@ namespace T3D
 		hourHand = new GameObject(app);
 		decoration = new GameObject(app);
 		
+		baseJoints->getTransform()->setParent(getTransform());
+		
 		base->setMesh(
 			new ClockBase(size, bezel_width, screen_depression)
 		);
 
-		base->getTransform()->setParent(getTransform());
+		base->getTransform()->setParent(baseJoints->getTransform());
 		base->getTransform()->name = "base";
 		//base->getTransform()->setLocalRotation(Vector3(0, 180 * Math::DEG2RAD,  0));
 
@@ -79,7 +97,7 @@ namespace T3D
 			new Cylinder(1, face_height / 2, 36)
 		);
 
-		minute_center->getTransform()->name = "face_center";
+		minute_center->getTransform()->name = "minute_center";
 		minute_center->getTransform()->setParent(face_center->getTransform());
 		minute_center->getTransform()->setLocalPosition(Vector3(0, -face_height, 0));
 
@@ -108,11 +126,22 @@ namespace T3D
 			createShell()
 		);
 
-		shell->getTransform()->setParent(getTransform());
+		shell->getTransform()->setParent(baseJoints->getTransform());
 		shell->getTransform()->name = "shell";
 
 
-
+		/*
+		  the decoration shape is like this
+		 |\
+		 |	\
+		 |	 \
+		 |   _|
+		 |	|
+		 |	 \
+		 |	  \
+		 |	   \
+		 |_____ |
+		*/
 		SweepPath path;
 		float r = sqrt(2 * size * size) + 1;
 
@@ -171,6 +200,23 @@ namespace T3D
 		return minute_center->getTransform();
 	};
 
+	/*	
+	*
+	
+	
+	shell profile is like this 
+		|\
+		\ \
+		 \ \
+		  \	\
+		   \ \
+		   | |
+		   | |
+		   | |
+		   | |
+		   | |
+		   | |
+	*/
 	Mesh* Clock::createShell() {
 		std::vector<Vector3> points;
 		SweepPath path = SweepPath();
